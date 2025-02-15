@@ -7,3 +7,4 @@
 ### AllisonVasarabFlowerClass.pdf is a hands on practice making an OOP Class Diagram of a flower with its possible methods and attributes.
 ### FlowerOOP.png is screen grab of python OOP code for a flower class with objects, attributes, and methods with the run results.
 ### Flower.py is the python OOP code text used to execute and get run results- the text file related to the photo file above.
+### NetworkDesign.jpeg is visual example made on visio of a star topology showing 2 computers and a printer connecting to a router, it simplifies the understanding of how a netwwork is made and shows that the network is centered at the router and the computers connect to the router as well as a printer to execute needed tasks. 
