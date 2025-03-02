@@ -9,3 +9,4 @@
 ### Flower.py is the python OOP code text used to execute and get run results- the text file related to the photo file above.
 ### NetworkDesign.jpg is visual example made on visio of a star topology showing 2 computers and a printer connecting to a router, it simplifies the understanding of how a netwwork is made and shows that the network is centered at the router and the computers connect to the router as well as a printer to execute needed tasks. 
 ### SQLQuery.png is a query showing both the query code and sample output of OrderDetails records where the quantity is over 20 sorted by ProductID.
+### MyHTML.png is a hands on practice to show all that I have learned in this class, using a logo I made in a previous weeks lesson, included in a hyperlink, associated with this git hub repository. 
